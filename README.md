@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @st7xxx
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning THM,HTB mainly sometimes codecademy
+- 🌱 I’m currently learning at the university of applied sciences of amsterdam past activitys include: THM,HTB,codecademy
 - 💞️ I’m looking to collaborate on projects to broaden my knowledge >:)
 - 📫 How to reach me ?
 
